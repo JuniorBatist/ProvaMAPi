@@ -31,7 +31,7 @@ export default function Index() {
             </div>
 
             <div>
-                Dia <input type= 'text' value= {dia} onChange={ e => setDia (e.target.value)} />
+                Dia <input type= 'text' value= {dia} onChange={e => setDia (e.target.value)} />
             </div>
 
             <div>
